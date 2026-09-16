@@ -16,3 +16,7 @@ The dataset contains student study hours, attendance, and scores in Mathematics,
 ## Objective
 
 This project is built as part of my Data Science learning journey.
+
+## Experiment
+
+This section exists only on the experiment branch.
