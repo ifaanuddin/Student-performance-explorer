@@ -8,3 +8,7 @@ A beginner Data Science project exploring student performance using Python and P
 - Calculate basic statistics
 - Create visualizations
 - Learn the fundamentals of Git and GitHub
+
+## Dataset
+
+The dataset contains student study hours, attendance, and scores in Mathematics, Science, and English.
